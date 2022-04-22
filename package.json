@@ -1,0 +1,26 @@
+{
+  "name": "rabitmq",
+  "version": "1.0.0",
+  "description": "rabitmq message-quere ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakibhasancse/QueueService.git"
+  },
+  "keywords": [
+    "rabitmq",
+    "message-quere"
+  ],
+  "author": "sakibhasancse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakibhasancse/QueueService/issues"
+  },
+  "homepage": "https://github.com/sakibhasancse/QueueService#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
