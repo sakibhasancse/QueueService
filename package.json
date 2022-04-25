@@ -1,7 +1,7 @@
 {
   "name": "rabitmq",
   "version": "1.0.0",
-  "description": "rabitmq message-quere ",
+  "description": "rabitmq message-queue ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "rabitmq",
-    "message-quere"
+    "message-quere",
+    "nodejs"
   ],
   "author": "sakibhasancse",
   "license": "ISC",
